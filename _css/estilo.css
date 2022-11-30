@@ -66,7 +66,7 @@ header#cabecalho h2 {
 /* Formatação de imagens com legendas */
 
 figure.foto-legenda {
-    position: relative;
+position: relative;
 border: 8px solid white;  
 box-shadow:1px 1px 4px black ;  
 }
