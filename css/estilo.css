@@ -22,7 +22,7 @@ div#interface {
 
 p {
     text-align:justify;
-    text: indent 50px;
+    text-indent: 50px;
 }
 
 a {
@@ -41,6 +41,7 @@ header#cabecalho img#icone {
 }
 
 header#cabecalho {
+    padding-top: 10px;
 border-bottom: 1px #606060 solid;
 height: 150px;
 background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
@@ -98,6 +99,7 @@ figure.foto-legenda:hover figcaption {
 
 nav#menu  {
     display: block;
+    margin-right: 0;
 }
 
 nav#menu ul {
